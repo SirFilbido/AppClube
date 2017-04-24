@@ -9,6 +9,7 @@ public class Clube {
     private String nome;
     private String cidade;
     private int ano;
+    private int dia;
 
     public Clube() {
     }
